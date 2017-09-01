@@ -1,0 +1,21 @@
+{
+  "name": "timestamp-api",
+  "version": "0.0.1",
+  "description": "Timestamp API, 1st chanllenge for Free Code Camp Backend course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Danny Suarez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "moment": "^2.18.1",
+    "volleyball": "^1.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
